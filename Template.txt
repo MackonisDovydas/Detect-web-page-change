@@ -18,13 +18,13 @@
 
 				<link href="https://is.vu.lt/media/css/eStudentas_in.css" rel="stylesheet" type="text/css">
 				 		
-		</head><body><img id="oWaitImg" src="https://is.vu.lt/media/images/loading.gif" border="0" style="
+		</head><body><img id="oWaitImg" src="https://is.vu.lt/media/images/loading.gif" style="
 				position:absolute;
 				top:0;
 				left:0;
 				z-index:100000000;
 				display:none;
-			">
+			" border="0">
 		<script type="text/javascript" language="javascript">
 			window.onbeforeunload = showWaitImage;
 			
@@ -78,7 +78,7 @@
 			<input type="hidden" name="p_kalba_name" value="lt">
 	
 <h1 id="rpt_caption" align="center">Pasirenkamieji dalykai. Semestras: 2019/20 pavasario.<br>Registracija&nbsp;<a title="Pagalba" href="am$studgrp_app.welcome?p_mode=pd_taisykles" target="_blank"><span class="img helpImg"></span></a></h1>
-<table cellspacing="0" cellpadding="0" rules="none" style="border-width:0px;background-color:transparent;">
+<table rules="none" style="border-width:0px;background-color:transparent;" cellspacing="0" cellpadding="0">
 			<tbody><tr valign="top">
 				<td style="border-width:0px;background-color:transparent;padding:0px;" align="right">Studijuojantis:</td>
 				<td style="border-width:0px;background-color:transparent;padding:0px;padding-left:4.0pt;">Dovydas Mackonis (1811692), kategorija: studentas, būsena: studijuoja, subforma: dieninė</td>
@@ -145,7 +145,7 @@
 				<td align="left"><nobr></nobr>  </td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td align="left" title=" "><nobr></nobr><br></td>
+<td title=" " align="left"><nobr></nobr><br></td>
 </tr>
 <tr id="oRow_355323">
 
@@ -161,7 +161,7 @@
 				<td align="left"><nobr></nobr>  </td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td align="left" title=" "><nobr></nobr><br></td>
+<td title=" " align="left"><nobr></nobr><br></td>
 </tr>
 
 			<tr id="oRowid_prgsem_dalgrupe_id_90831">
@@ -184,7 +184,7 @@
 				<td align="left"><nobr></nobr>  </td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td align="left" title=" "><nobr></nobr><br></td>
+<td title=" " align="left"><nobr></nobr><br></td>
 </tr>
 <tr id="oRow_355326">
 
@@ -200,7 +200,7 @@
 				<td align="left"><nobr></nobr>  </td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td align="left" title=" "><nobr></nobr><br></td>
+<td title=" " align="left"><nobr></nobr><br></td>
 </tr>
 <tr id="oRow_364006">
 
@@ -216,7 +216,7 @@
 				<td align="left"><nobr>Dr.</nobr> Pranas Katauskis</td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td align="left" title=" "><nobr></nobr><br></td>
+<td title=" " align="left"><nobr></nobr><br></td>
 </tr>
 <tr id="oRow_355324">
 
@@ -232,7 +232,7 @@
 				<td align="left"><nobr></nobr>  </td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td align="left" title=" "><nobr></nobr><br></td>
+<td title=" " align="left"><nobr></nobr><br></td>
 </tr>
 <tr id="oRow_355325">
 
@@ -248,7 +248,7 @@
 				<td align="left"><nobr></nobr>  </td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td align="left" title=" "><nobr></nobr><br></td>
+<td title=" " align="left"><nobr></nobr><br></td>
 </tr>
 </tbody></table>
 <div class="help">Pastaba. Pasirinkti galima tik tą dalyką, kuriam yra nurodytas dėstytojas(-ai) ir yra laisvų vietų.</div>

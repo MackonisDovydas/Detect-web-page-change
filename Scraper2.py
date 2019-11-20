@@ -17,14 +17,14 @@ options.profile = firefox_profile
 driver = webdriver.Firefox(options=options)
 driver.get("https://is.vu.lt")
 
-time.sleep(1)
+time.sleep(2)
 button = driver.find_element_by_xpath("//input[@name='Submit']")
 button.click()
 
+time.sleep(2)
 button = driver.find_element_by_xpath("//input[@name='src-dnVfbGRhcC1zdHVkZW50YWk=']")
 button.click()
 
-time.sleep(1)
 username = driver.find_element_by_xpath("//input[@name='username']")
 password = driver.find_element_by_xpath("//input[@name='password']")
 submit = driver.find_element_by_xpath("//button[@name='wp-submit']")
@@ -33,7 +33,7 @@ username.send_keys(USERNAME)
 password.send_keys(PASSWORD)
 submit.click()
 
-time.sleep(1)
+time.sleep(2)
 driver.get("https://is.vu.lt/pls/klevas/am$pd_reg_app.show?p_stud_id=219671&p_kalba_name=lt")
 page_source = driver.page_source
 url = driver.current_url

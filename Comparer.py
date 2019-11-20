@@ -13,13 +13,10 @@ def main():
     URL = f.read()
     f.close()
 
-    if Template_URL == URL:
-        if template == html:
-            sys.exit(0)
-        else:
-            sys.exit(1)
+    if template == html:
+        sys.exit(0)
     else:
-        print("Not right url")
+        print("Template wrong")
         sys.exit(1)
 
 if __name__ == '__main__':
