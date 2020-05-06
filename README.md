@@ -26,6 +26,8 @@
     sudo apt-get -y install google-chrome-stable
 
 ## Download chromedriver
+    sudo bash chrome.sh
+### Or
     sudo mv chromedriver /usr/bin/chromedriver
     sudo chown root:root /usr/bin/chromedriver
     sudo chmod +x /usr/bin/chromedriver
