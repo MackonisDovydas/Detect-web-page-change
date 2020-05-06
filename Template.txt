@@ -18,13 +18,13 @@
 
 				<link href="https://is.vu.lt/media/css/eStudentas_in.css" rel="stylesheet" type="text/css">
 				 		
-		</head><body><img id="oWaitImg" src="https://is.vu.lt/media/images/loading.gif" style="
+		</head><body><img id="oWaitImg" src="https://is.vu.lt/media/images/loading.gif" border="0" style="
 				position:absolute;
 				top:0;
 				left:0;
 				z-index:100000000;
 				display:none;
-			" border="0">
+			">
 		<script type="text/javascript" language="javascript">
 			window.onbeforeunload = showWaitImage;
 			
@@ -74,11 +74,11 @@
 
 		<form action="am$pd_reg_app.do_pasirink" method="post" target="_self" style="margin:0;">
 			<input type="hidden" name="p_stud_id" value="219671">
-			<input type="hidden" name="p_srautas_id" value="31">
+			<input type="hidden" name="p_srautas_id" value="32">
 			<input type="hidden" name="p_kalba_name" value="lt">
 	
-<h1 id="rpt_caption" align="center">Pasirenkamieji dalykai. Semestras: 2019/20 pavasario.<br>Registracija&nbsp;<a title="Pagalba" href="am$studgrp_app.welcome?p_mode=pd_taisykles" target="_blank"><span class="img helpImg"></span></a></h1>
-<table rules="none" style="border-width:0px;background-color:transparent;" cellspacing="0" cellpadding="0">
+<h1 id="rpt_caption" align="center">Pasirenkamieji dalykai. Semestras: 2020/21 rudens.<br>Registracija&nbsp;<a title="Pagalba" href="am$studgrp_app.welcome?p_mode=pd_taisykles" target="_blank"><span class="img helpImg"></span></a></h1>
+<table cellspacing="0" cellpadding="0" rules="none" style="border-width:0px;background-color:transparent;">
 			<tbody><tr valign="top">
 				<td style="border-width:0px;background-color:transparent;padding:0px;" align="right">Studijuojantis:</td>
 				<td style="border-width:0px;background-color:transparent;padding:0px;padding-left:4.0pt;">Dovydas Mackonis (1811692), kategorija: studentas, būsena: studijuoja, subforma: dieninė</td>
@@ -86,10 +86,10 @@
 		
 			<tr valign="top">
 				<td style="border-width:0px;background-color:transparent;padding:0px;" align="right"><nobr>Mokymosi vieta:</nobr></td>
-				<td style="border-width:0px;background-color:transparent;padding:0px;padding-left:4.0pt;">Informatika [6121BX004], MIF, B, Ps, NL, 4 m., 2018 p.m., 2 k., 3 (2019/20 rudens) einamasis sem.</td>
+				<td style="border-width:0px;background-color:transparent;padding:0px;padding-left:4.0pt;">Informatika [6121BX004], MIF, B, Ps, NL, 4 m., 2018 p.m., 2 k., 4 (2019/20 pavasario) einamasis sem.</td>
 			</tr>
 		</tbody></table>
-<div><nobr>Surinkta kreditų: </nobr><nobr><b><span class="incomplete">0.0</span></b> iš <b>10.0</b></nobr> <span class="incomplete">Nepasirinktas nei vienas dalykas</span></div>
+<div><nobr>Surinkta kreditų: </nobr><nobr><b><span class="incomplete">0.0</span></b> iš <b>15.0</b></nobr> <span class="incomplete">Nepasirinktas nei vienas dalykas</span></div>
 <div class="mBox">Šiuo metu registracija nevyksta</div>
 <table align="center">
 
@@ -102,26 +102,26 @@
 		</tr>
 	
 
-			<tr id="oRowid_prgsem_dalgrupe_id_90829">
+			<tr id="oRowid_prgsem_dalgrupe_id_90834">
 				<td>&nbsp;&nbsp;&nbsp;<b>blokas: pasirenkamieji dalykai</b></td>
-				<td align="right"><b>10.0</b></td>
+				<td align="right"><b>15.0</b></td>
 				<td colspan="3">&nbsp;</td>
 		
 </tr>
 
-			<tr id="oRowid_prgsem_dalgrupe_id_90830">
+			<tr id="oRowid_prgsem_dalgrupe_id_90835">
 				<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>grupė</b></td>
 				<td align="right"><b>5.0</b></td>
 				<td colspan="3">&nbsp;</td>
 		
 </tr>
-<tr id="oRow_355322">
+<tr id="oRow_355331">
 
 				<td>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input id="oCheckboxValue_355322" type="hidden" name="p_sarasas_id" value="-355322">
-					<input type="checkbox" value="355322" onclick="doCheckboxClick(this);" disabled="">
-					Automatai ir formaliosios kalbos, egzaminas <style type="text/css">
+					<input id="oCheckboxValue_355331" type="hidden" name="p_sarasas_id" value="-355331">
+					<input type="checkbox" value="355331" onclick="doCheckboxClick(this);" disabled="">
+					Informacijos teorija, egzaminas <style type="text/css">
 		#DA_BgImage_16x16
 			{
 			background-repeat:no-repeat;
@@ -137,46 +137,110 @@
 			{
 			background-image:url('https://is.vu.lt/media/images/page_white_acrobat_1_16x16.png');
 			}
-	</style><a href="view_dalyko_aprasas?p_plan_dalykas_id=F69FBC4720E635C3206EB0BC6E8E98EEEDFB5C7C328A7F91" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+	</style><a href="view_dalyko_aprasas?p_plan_dalykas_id=8A848CD67594AA64A573D175DE46A95B144A6FA22D1198E8" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
 				</td>
 				<td align="right">5.0</td>
 			
 
-				<td align="left"><nobr></nobr>  </td>
+				<td align="left"><nobr>Dr.</nobr> Algirdas Mačiulis</td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td title=" " align="left"><nobr></nobr><br></td>
+<td align="left" title=" "><nobr></nobr><br></td>
 </tr>
-<tr id="oRow_355323">
+<tr id="oRow_355332">
 
 				<td>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input id="oCheckboxValue_355323" type="hidden" name="p_sarasas_id" value="-355323">
-					<input type="checkbox" value="355323" onclick="doCheckboxClick(this);" disabled="">
-					Grafai ir algoritmai, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=512B3E2F38C46911939DA2E4D56E59BF3A0B090D6BE2743D" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+					<input id="oCheckboxValue_355332" type="hidden" name="p_sarasas_id" value="-355332">
+					<input type="checkbox" value="355332" onclick="doCheckboxClick(this);" disabled="">
+					Transliavimo metodai, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=F92C4FCC891800D939B4EDE30A6E8FA4014D6D3CA69F2C9B" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
 				</td>
 				<td align="right">5.0</td>
 			
 
-				<td align="left"><nobr></nobr>  </td>
+				<td align="left"><nobr>Dr.</nobr> Audrius Šaikūnas</td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td title=" " align="left"><nobr></nobr><br></td>
+<td align="left" title=" "><nobr></nobr><br></td>
 </tr>
 
-			<tr id="oRowid_prgsem_dalgrupe_id_90831">
+			<tr id="oRowid_prgsem_dalgrupe_id_90836">
 				<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>grupė</b></td>
-				<td align="right"><b>5.0</b></td>
+				<td align="right"><b>10.0</b></td>
 				<td colspan="3">&nbsp;</td>
 		
 </tr>
-<tr id="oRow_355327">
+<tr id="oRow_394247">
 
 				<td>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input id="oCheckboxValue_355327" type="hidden" name="p_sarasas_id" value="-355327">
-					<input type="checkbox" value="355327" onclick="doCheckboxClick(this);" disabled="">
-					Buhalterinė apskaita, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=605E8D4B46B1AABF6EDCFD3F9E59020A34940FAA46202CA4" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+					<input id="oCheckboxValue_394247" type="hidden" name="p_sarasas_id" value="-394247">
+					<input type="checkbox" value="394247" onclick="doCheckboxClick(this);" disabled="">
+					Blokų grandinių technologijos, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=D88853DB09E0BAF4875FE2BD5B9F6B5FC56F2D3932647687" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+				</td>
+				<td align="right">5.0</td>
+			
+
+				<td align="left"><nobr></nobr> Saulius Grigaitis</td>
+			
+<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
+<td align="left" title=" "><nobr></nobr><br></td>
+</tr>
+<tr id="oRow_355333">
+
+				<td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input id="oCheckboxValue_355333" type="hidden" name="p_sarasas_id" value="-355333">
+					<input type="checkbox" value="355333" onclick="doCheckboxClick(this);" disabled="">
+					IT projektų valdymas, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=63A0CE91734B3E7B587945EBB6682FE916C5F5BF05DD81C1" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+				</td>
+				<td align="right">5.0</td>
+			
+
+				<td align="left"><nobr>Dr.</nobr> Darius Baronas</td>
+			
+<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
+<td align="left" title=" "><nobr></nobr><br></td>
+</tr>
+<tr id="oRow_364003">
+
+				<td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input id="oCheckboxValue_364003" type="hidden" name="p_sarasas_id" value="-364003">
+					<input type="checkbox" value="364003" onclick="doCheckboxClick(this);" disabled="">
+					Įvadas į robotiką, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=DAE63F0183A4CFEA425F6B98D8C11AA9767BD7BA9AB08DCD" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+				</td>
+				<td align="right">5.0</td>
+			
+
+				<td align="left"><nobr>Dr.</nobr> Aistis Raudys</td>
+			
+<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
+<td align="left" title=" "><nobr></nobr><br></td>
+</tr>
+<tr id="oRow_413843">
+
+				<td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input id="oCheckboxValue_413843" type="hidden" name="p_sarasas_id" value="-413843">
+					<input type="checkbox" value="413843" onclick="doCheckboxClick(this);" disabled="">
+					Įvadas į robotiką, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=DAE63F0183A4CFEA425F6B98D8C11AA9767BD7BA9AB08DCD" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+				</td>
+				<td align="right">5.0</td>
+			
+
+				<td align="left"><nobr>Dr.</nobr> Vytautas Valaitis</td>
+			
+<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
+<td align="left" title=" "><nobr></nobr><br></td>
+</tr>
+<tr id="oRow_355337">
+
+				<td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input id="oCheckboxValue_355337" type="hidden" name="p_sarasas_id" value="-355337">
+					<input type="checkbox" value="355337" onclick="doCheckboxClick(this);" disabled="">
+					Judrusis programavimas Ruby, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=A4A4F50950573FAD6EFBA1CFF4BF2312F6BCB01A34D4434A" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
 				</td>
 				<td align="right">5.0</td>
 			
@@ -184,15 +248,79 @@
 				<td align="left"><nobr></nobr>  </td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td title=" " align="left"><nobr></nobr><br></td>
+<td align="left" title=" "><nobr></nobr><br></td>
 </tr>
-<tr id="oRow_355326">
+<tr id="oRow_355338">
 
 				<td>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input id="oCheckboxValue_355326" type="hidden" name="p_sarasas_id" value="-355326">
-					<input type="checkbox" value="355326" onclick="doCheckboxClick(this);" disabled="">
-					Elektronikos fizikiniai pagrindai, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=EC2BDF23BE2CB9EF9EA6DCA57478BF74327F323EB3547394" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+					<input id="oCheckboxValue_355338" type="hidden" name="p_sarasas_id" value="-355338">
+					<input type="checkbox" value="355338" onclick="doCheckboxClick(this);" disabled="">
+					Kompiuterinė grafika, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=D7ECD48DF74C162F35471D8710230DC003290081182897B5" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+				</td>
+				<td align="right">5.0</td>
+			
+
+				<td align="left"><nobr>Dr.</nobr> Rimvydas Krasauskas</td>
+			
+<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
+<td align="left" title=" "><nobr></nobr><br></td>
+</tr>
+<tr id="oRow_413844">
+
+				<td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input id="oCheckboxValue_413844" type="hidden" name="p_sarasas_id" value="-413844">
+					<input type="checkbox" value="413844" onclick="doCheckboxClick(this);" disabled="">
+					Loginis programavimas, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=CF76291E83FDEACB438C31CC669B6900886F37FE78D1D57C" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+				</td>
+				<td align="right">5.0</td>
+			
+
+				<td align="left"><nobr>Dr.</nobr> Julius Andrikonis</td>
+			
+<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
+<td align="left" title=" "><nobr></nobr><br></td>
+</tr>
+<tr id="oRow_355336">
+
+				<td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input id="oCheckboxValue_355336" type="hidden" name="p_sarasas_id" value="-355336">
+					<input type="checkbox" value="355336" onclick="doCheckboxClick(this);" disabled="">
+					Loginis programavimas, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=CF76291E83FDEACB438C31CC669B6900886F37FE78D1D57C" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+				</td>
+				<td align="right">5.0</td>
+			
+
+				<td align="left"><nobr>Dr.</nobr> Rimantas Vaicekauskas</td>
+			
+<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
+<td align="left" title=" "><nobr></nobr><br></td>
+</tr>
+<tr id="oRow_355335">
+
+				<td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input id="oCheckboxValue_355335" type="hidden" name="p_sarasas_id" value="-355335">
+					<input type="checkbox" value="355335" onclick="doCheckboxClick(this);" disabled="">
+					Programavimas OS UNIX, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=CED41A5C228EA4F0FB8F055E1DD4CCE696D4E85C5E0D8AD2" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
+				</td>
+				<td align="right">5.0</td>
+			
+
+				<td align="left"><nobr></nobr> Rokas Masiulis</td>
+			
+<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
+<td align="left" title=" "><nobr></nobr><br></td>
+</tr>
+<tr id="oRow_355334">
+
+				<td>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input id="oCheckboxValue_355334" type="hidden" name="p_sarasas_id" value="-355334">
+					<input type="checkbox" value="355334" onclick="doCheckboxClick(this);" disabled="">
+					Taikomųjų programų kūrimas mobiliesiems įrenginiams ir autonominėms sistemoms, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=988A7C25A33424F31AF829793B8A42DA542E377394C7695E" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
 				</td>
 				<td align="right">5.0</td>
 			
@@ -200,55 +328,7 @@
 				<td align="left"><nobr></nobr>  </td>
 			
 <td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td title=" " align="left"><nobr></nobr><br></td>
-</tr>
-<tr id="oRow_364006">
-
-				<td>
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input id="oCheckboxValue_364006" type="hidden" name="p_sarasas_id" value="-364006">
-					<input type="checkbox" value="364006" onclick="doCheckboxClick(this);" disabled="">
-					Finansiniai skaičiavimai, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=D2274A0076834BF5196F5BC5B531A189F6033EAC73ADFA4F" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
-				</td>
-				<td align="right">5.0</td>
-			
-
-				<td align="left"><nobr>Dr.</nobr> Pranas Katauskis</td>
-			
-<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td title=" " align="left"><nobr></nobr><br></td>
-</tr>
-<tr id="oRow_355324">
-
-				<td>
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input id="oCheckboxValue_355324" type="hidden" name="p_sarasas_id" value="-355324">
-					<input type="checkbox" value="355324" onclick="doCheckboxClick(this);" disabled="">
-					Fizika informatikams, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=8D226BBB65FD35BDF97F01D10338F0ED54DA2B2DA650FDA6" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
-				</td>
-				<td align="right">5.0</td>
-			
-
-				<td align="left"><nobr></nobr>  </td>
-			
-<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td title=" " align="left"><nobr></nobr><br></td>
-</tr>
-<tr id="oRow_355325">
-
-				<td>
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input id="oCheckboxValue_355325" type="hidden" name="p_sarasas_id" value="-355325">
-					<input type="checkbox" value="355325" onclick="doCheckboxClick(this);" disabled="">
-					Vadybos pagrindai, egzaminas <a href="view_dalyko_aprasas?p_plan_dalykas_id=6424C51D4B31CB29358617F5049F6C83591694764634D29E" title="Peržiūrėti dalyko aprašą" target="_blank" style="text-decoration:none;"><span class="img acrobat"></span></a>
-				</td>
-				<td align="right">5.0</td>
-			
-
-				<td align="left"><nobr></nobr>  </td>
-			
-<td title="Nesurinkta minimali studentų grupė" align="center"><nobr><span title="Neribotai">...</span><span title="Minimalus studentų, kurie gali būti priimti dalyko studijoms, skaičius">(6)</span> / <span title="Užimtų vietų skaičius">0</span></nobr></td>
-<td title=" " align="left"><nobr></nobr><br></td>
+<td align="left" title=" "><nobr></nobr><br></td>
 </tr>
 </tbody></table>
 <div class="help">Pastaba. Pasirinkti galima tik tą dalyką, kuriam yra nurodytas dėstytojas(-ai) ir yra laisvų vietų.</div>

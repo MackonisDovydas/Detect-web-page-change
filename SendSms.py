@@ -13,11 +13,21 @@ account_sid = ACCOUNT_SID
 auth_token = AUTH_TOKEN
 client = Client(account_sid, auth_token)
 
-numbers_to_message = [FIRST_NUMBER,SECOND_NUMBER]
+Template_URL = "https://is.vu.lt/pls/klevas/am$pd_reg_app.show?p_stud_id=219671&p_kalba_name=lt"
+
+f = open("URL.txt", "r")
+URL = f.read()
+f.close()
+
+f = open ("output1.txt", "r")
+Out = f.read()
+f.close()
+
+numbers_to_message = [FIRST_NUMBER, SECOND_NUMBER]
 for number in numbers_to_message:
-    message=client.messages.create(
-        body = 'Something changed in "PD pasirinkimas"',
-        from_ = '+19073187609',
-        to = number
+    message = client.messages.create(
+        body=Out,
+        from_='+12565408905',
+        to=number
     )
-    print(message.sid)
+print(message.sid)

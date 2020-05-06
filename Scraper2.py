@@ -9,12 +9,25 @@ HOST = 'VU_login'
 secrets = netrc.netrc()
 USERNAME, account, PASSWORD = secrets.authenticators(HOST)
 
+options = webdriver.ChromeOptions()
+options.add_argument('--no-sandbox')
+options.add_argument('--ignore-certificate-errors')
+options.add_argument('--incognito')
+options.add_argument('--headless')
+driver = webdriver.Chrome("/usr/bin/chromedriver", options=options)
+
+"""options.add_argument('--disable-dev-shm-usage') 
+
+Firefox
 options = Options()
 firefox_profile = FirefoxProfile()
 options.headless = True
 firefox_profile.set_preference("javascript.enabled", True)
 options.profile = firefox_profile
 driver = webdriver.Firefox(options=options)
+driver.get("https://is.vu.lt")
+"""
+
 driver.get("https://is.vu.lt")
 
 time.sleep(2)
@@ -25,6 +38,7 @@ time.sleep(2)
 button = driver.find_element_by_xpath("//input[@name='src-dnVfbGRhcC1zdHVkZW50YWk=']")
 button.click()
 
+time.sleep(2)
 username = driver.find_element_by_xpath("//input[@name='username']")
 password = driver.find_element_by_xpath("//input[@name='password']")
 submit = driver.find_element_by_xpath("//button[@name='wp-submit']")
